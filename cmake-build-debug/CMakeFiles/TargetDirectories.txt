@@ -1,0 +1,4 @@
+/Users/Thadsha/Nettverksprogrammering/Programmering/Oving 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Thadsha/Nettverksprogrammering/Programmering/Oving 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Thadsha/Nettverksprogrammering/Programmering/Oving 2/cmake-build-debug/CMakeFiles/Oving_2.dir
+/Users/Thadsha/Nettverksprogrammering/Programmering/Oving 2/cmake-build-debug/CMakeFiles/Oving_2_autogen.dir
